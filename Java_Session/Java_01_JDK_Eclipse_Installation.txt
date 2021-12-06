@@ -1,0 +1,171 @@
+Testing:-
+-----------
+
+1. Manual Testing
+---------------------
+
+> Human
+
+2. Automation Testing
+--------------------
+
+> Code / Selenium / Protractor / Cypress / Robot / WebDriver IO / Selenoid / QTP
+
+IT --> SDLC --> Agile (Scrum) --> Frequent Release (Multiple times) --> Testing activing
+
+90% --> Selenium --> Browser Automation Tool
+
+> Programming language
+
+---> C, C++, Java, Python, Perl, Ruby, Shel script, C sharp, Go language etc..
+
+Selenium + Java
+
+Selenium + Python
+
+Selenium + C sharp
+
+Selenium + JS
+---------------->
+
+Java:-- Core Java
+------------------
+
+Programming language --> OOPS (Object Oriented Programming structure)
+
+> Object > Class > Inheritance > Polymorphism > Abstraction > Encapsulation
+
+How to set up Java in your machine?
+-------------------------
+
+1. Editor --> Type our java Code --> Notepad, Notepad++, Netbean, JDeveloper, RAD(IBM), IntelliJ(Jetbrains), Eclipse (Integrated Development Environment) 
+2. Compiler --> javac/JDK(Java development kit) ---> Java Code --> Byte Code (User cannot understand - Alpha Numeric + Special) --> Securable
+3. Runner --> JRE Java Runtime Environment ---> Execution --> Byte Code --> JVM --> Run time environment ---> O/P
+
+
+2 + 5 (Java)  --> Compiler ---> Byte Code  ---> JVM --> Respective O/P (7)
+
+Platform Independent (JVM)
+
+17th version --> 17 or 1.17
+14th version --> 14 or 1.14
+
+1.0 to 1.17 --> Java is already Available
+
+Not recognized -->  You need to download and install Jdk
+
+Selenium --> Min of Jdk 1.8 (Stable)
+-----------------------------------
+
+1.15 --> Uninstall --> 1.8?? Not required 
+
+Compatability --> 1.15 (BC) (1.8)
+
+>1.8
+
+--------------------
+
+Java --> OS / Paid Version --> Paid Version
+
+Open Source --> 1.8 --> Oracle / Sun microsystem --> James Gosling
+
+https://www.oracle.com/in/java/technologies/javase/javase8u211-later-archive-downloads.html
+
+
+Java --> Platform Independent
+
+JDK --> Platform Dependent (Windows --> 64 bit) / 32 bit (*86)
+
+Create Account --> Gmail Id ---> Verification Email --> Exe (170 MB)
+
+
+Cmd --> set path="C:\Program Files\Java\jdk1.8.0_301\bin"
+
+Verify (javac/java -version)
+
+---------------------------------
+Why do i need to do set Path command ?
+
+----------------
+
+
+Eclipse
+
+GIT
+
+Maven
+
+Jenkins
+
+Selenium
+
+---------------->
+
+
+Eclipse
+
+https://www.eclipse.org/downloads
+
+
+-------------->
+
+Eclipse for Java Developer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
